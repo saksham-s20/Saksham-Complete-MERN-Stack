@@ -1,7 +1,11 @@
 
 
-in the structure of the HTML file first of all it defines the doctype of the file which is html and then it includes the html (opening and closing tag).
-in the html tags we have two main tags inside it which are the heaad and the body tag
-in the head tag we mainly use meta data and the attachments of different files to that html file 
-these meta data are in the form of key value pairs which gives us the details about the html file
-in the body tag we 
+-> in the structure of the HTML file first of all it defines the doctype of the file which is html and then it includes the html (opening and closing tag).
+-> in the html tags we have two main tags inside it which are the heaad and the body tag
+-> in the head tag we mainly use meta data and the attachments of different files to that html file 
+-> these meta data are in the form of key value pairs which gives us the details about the html file
+-> in the body tag we add the main content of the page which will be dislayed on the browser window
+
+
+-> when we run any url on the browser then the browser checks for the same in its database
+-> and then return whatever data is present over there on the server

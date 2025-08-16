@@ -1,1 +1,7 @@
 
+
+in the structure of the HTML file first of all it defines the doctype of the file which is html and then it includes the html (opening and closing tag).
+in the html tags we have two main tags inside it which are the heaad and the body tag
+in the head tag we mainly use meta data and the attachments of different files to that html file 
+these meta data are in the form of key value pairs which gives us the details about the html file
+in the body tag we 
